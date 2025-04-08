@@ -4,7 +4,7 @@ This repository contains structured notes on various topics I’m learning, incl
 
 ## 📂 Structure
 
-- **Python-and-DSA/** → Fundamentals of Python + data structures and algorithms
+- **Python-and-DSA/** → Using this book to master data structures and algorithms
 - **The Pragmatic Programmer/** → Build and improve coding habits
 <!-- - **Python-Backend/** → FastAPI, Flask, Django REST Framework
 - **Blockchain-Web3/** → Solidity, Web3.js, Smart Contracts
