@@ -9,7 +9,7 @@ Each chapter will have its own `.md` file with key concepts, insights, and pract
 ## 📚 Notes
 
 - [Chapter 3: Algorithm Analysis](./Chapter-3.md)
-- [Chapter 2: A Pragmatic Approach](./Chapter-2.md)
+- [Chapter 4: Recursion](./Chapter-4.md)
 - _(More chapters will be added as I progress!)_
 
 ### 📘 Books
