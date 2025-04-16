@@ -24,3 +24,7 @@
 - For different sizes of input, we can create a fixed size hash function which would save us the memory ( also known as commitment )
 - This thing is super critical for blockchains and smart contracts as they just have to save that hash output only
 - Cryptographic functions are also super important for first blockchain consensus mechanism i.e, Proof of Work
+
+### Relevant Topics
+
+- [Digital Signatures](./Digital_Signatures.md)
