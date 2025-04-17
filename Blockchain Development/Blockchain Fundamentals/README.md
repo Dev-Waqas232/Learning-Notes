@@ -28,3 +28,4 @@
 ### Relevant Topics
 
 - [Digital Signatures](./Digital_Signatures.md)
+- [Proof of Work & Mining](./Proof_of_Work.md)
